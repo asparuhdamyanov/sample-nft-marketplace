@@ -1,6 +1,7 @@
 # NFT-Marketplace-Smart-Contract
 
 NFT-MArketplace Smart Contract users can set royalty of NFT, buy with ERC20 token & 2.5% platform fees.
+Important: Rinkeby is terminated, so replace the values needed with Goerli
 
 ## Important Step
 
@@ -19,9 +20,9 @@ create .env file in root directory.
 
 - [Alchemy](https://alchemy.com/?r=36af7883c4699196)
 
--Get Your Rinkeby Faucet
+-Get Your Goerli Faucet
 
-- [Rinkeby Faucet](https://faucets.chain.link/rinkeby)
+- [Goerli Faucet]([https://faucets.chain.link/rinkeby](https://goerlifaucet.com/))
 
 ## NPM Packages
 
