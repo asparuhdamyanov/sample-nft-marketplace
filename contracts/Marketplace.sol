@@ -13,6 +13,7 @@ import "@openzeppelin/contracts/utils/cryptography/EIP712.sol";
 /// @author Asparuh Damyanov
 /// @notice You can use this contract to list NFT on Marketplace
 /// @dev All function calls are currently implemented without side effects
+/// @dev these smart contracts are designed for testing & POC
 
 contract Marketplace is ERC1155Holder {
     using Counters for Counters.Counter;

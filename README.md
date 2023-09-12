@@ -1,4 +1,7 @@
-# NFT-Marketplace-Smart-Contract
+# NFT-Marketplace-Smart-Contract ERC1155
+
+This marketplace is designed for fast deployment & smart contract testing.
+POC for a Blockchain NFT Marketplace.
 
 NFT-MArketplace Smart Contract users can set royalty of NFT, buy with ERC20 token & 2.5% platform fees.
 Important: Rinkeby is terminated, so replace the values needed with Goerli
@@ -22,7 +25,7 @@ create .env file in root directory.
 
 -Get Your Goerli Faucet
 
-- [Goerli Faucet]([https://faucets.chain.link/rinkeby](https://goerlifaucet.com/))
+- [Goerli Faucet](<[https://faucets.chain.link/rinkeby](https://goerlifaucet.com/)>)
 
 ## NPM Packages
 
